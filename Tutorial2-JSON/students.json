@@ -1,0 +1,28 @@
+{
+    "students": [
+        {
+            "first_name": "Muhammad",
+            "last_name": "Khamra",
+            "email": "Muhammad.khamra@e.braude.ac.il",
+            "courses": [
+                "מחשוב ענן",
+                "בינה מלאכותית",
+                "WEB"
+            ],
+            "interesting_link": "https://w3.braude.ac.il/#",
+            "favorite_program": ""
+        },
+        {
+            "first_name": "Hamdan",
+            "last_name": "Khatib",
+            "email": "Hamdan.Khatib@e.braude.ac.il",
+            "courses": [
+                "מחשוב ענן",
+                "בינה מלאכותית",
+                "WEB"
+            ],
+            "interesting_link": "https://w3.braude.ac.il/#",
+            "favorite_program": ""
+        }
+    ]
+}
